@@ -18,5 +18,5 @@ cd into direcotry, run `npm install` then `npm start`
 - The overlay triggers an animation to change the data
 
 ## Links
-![Socket.IO](https://socket.io/docs/)
-![Anime.js](https://animejs.com/documentation/)
+[Socket.IO](https://socket.io/docs/)
+[Anime.js](https://animejs.com/documentation/)
